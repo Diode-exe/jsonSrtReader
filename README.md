@@ -33,6 +33,6 @@ You can also print the content to the console if you want.
                 "start": 14.457,
                 "end": 21.684,
                 "text": "Computers are great, aren't they? ",
-            },
+            }
     ]
 ```
